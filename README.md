@@ -145,6 +145,21 @@ Ouvrir : http://localhost:8501
 
 Le dashboard permet de comparer les températures, de suivre leur évolution et de consulter les observations.
 
+## 📊 Aperçu du dashboard Streamlit
+
+### 1. Vue générale du dashboard
+
+![Vue générale du dashboard](assets/Page%201.png)
+
+### 2. Comparaison des températures
+
+![Comparaison des températures](assets/Page%202.png)
+
+### 3. Données météorologiques
+
+![Données PostgreSQL](assets/Page%203.png)
+
+
 ## 12. Arrêter les services
 
 ```powershell
