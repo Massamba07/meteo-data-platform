@@ -1,0 +1,22 @@
+# Variables d'environnement et secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Données locales
+data/*.csv
+data/*.json
+data/*.parquet
+
+# Fichiers système
+.DS_Store
+Thumbs.db
